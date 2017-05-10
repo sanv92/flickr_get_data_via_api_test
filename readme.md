@@ -1,3 +1,2 @@
 # Test task
 requirejs
-
